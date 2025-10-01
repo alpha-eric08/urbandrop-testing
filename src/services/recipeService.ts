@@ -1,4 +1,4 @@
-const API_BASE_URL = 'https://urbandrop.onrender.com';
+const API_BASE_URL = 'https://urbandrop-testing.onrender.com';
 const ADMIN_API_KEY = 'rABlFijaoTrjhuy7t56t7yusRAOssJfejSinG';
 
 export interface RecipeResponse {
